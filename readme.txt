@@ -9,3 +9,5 @@ Git tracks changes of files.
 My stupid teacher still...
 
 Creating a new branch.
+
+Creating a new branch of feature1.

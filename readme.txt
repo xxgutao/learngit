@@ -15,7 +15,3 @@ Committing with master.
 Creating a new branch of feature1.
 
 Creating a new branch.
-
-update1 with dev.
-
-update 2 with dev.

@@ -9,3 +9,5 @@ Git tracks changes of files.
 My stupid teacher still...
 
 Creating a new branch.
+
+Committing with master.
